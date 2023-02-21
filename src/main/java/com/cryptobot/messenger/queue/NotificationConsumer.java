@@ -81,7 +81,7 @@ public class NotificationConsumer {
             logger.error("Error de-serializing QueueEntry object: {}", e.getMessage());
         }
         finally {
-            return entryItem;
+            return entryItem; 
         }
     }
 }

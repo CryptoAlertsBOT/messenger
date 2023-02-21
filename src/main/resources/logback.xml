@@ -6,15 +6,6 @@
         </encoder>
     </appender>
 
-    <appender name="CONSUMER_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
-        <file>logs/process/consumer.log</file>
-        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
-            <fileNamePattern>logs/process/consumer-%d{MM-dd-yyyy}.log</fileNamePattern>
-        </rollingPolicy>
-        <encoder>
-            <pattern>%d{HH:mm:ss.SSSS} [%thread] %-5logger{36} - %msg%n</pattern>
-        </encoder>
-    </appender>
 
     <appender name="DEBUG_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>logs/process/debug.log</file>
@@ -36,10 +27,7 @@
         </encoder>
     </appender>
 
-    <logger name="com.cryptobot.messenger.queue.NotificationConsumer" level="INFO" additivity="false">
-        <appender-ref ref="CONSUMER_FILE" />
-        <appender-ref ref="CONSOLE" />
-    </logger>
+
 
     <logger name="com.cryptobot.messenger" level="DEBUG" additivity="false">
         <appender-ref ref="DEBUG_FILE"/>

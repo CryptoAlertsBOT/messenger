@@ -87,8 +87,9 @@ public class QueueEntry {
                 "symbol='" + symbol + '\'' +
                 ", interval='" + interval + '\'' +
                 ", window='" + window + '\'' +
-                ", threshold='" + threshold + '\'' +
-                ", burst='" + burst + '\'' +
+                ", threshold=" + threshold +
+                ", burst=" + burst +
+                ", signal='" + signal + '\'' +
                 '}';
     }
 

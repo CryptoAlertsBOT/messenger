@@ -1,6 +1,7 @@
 package com.cryptobot.messenger.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.rabbitmq.client.ConnectionFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
@@ -18,6 +19,12 @@ public class MessengerConfig {
     @Bean
     public RestTemplate getRestTemplate() {
         return new RestTemplate();
+    }
+
+    // ConnectionFactory
+    @Bean
+    public ConnectionFactory getConnectionFactory() {
+        return new ConnectionFactory();
     }
 
 }

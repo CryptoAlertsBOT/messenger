@@ -3,7 +3,7 @@ A Notification system that acts as a standalone service for CryptoBOT
 
 ## Entities
 - `Message` extends `QueueEntry`
-- `Endpoint` class or interface?
+- `Endpoint` extends `MongoRepository` (Collection)
 - `NotificationStage` denotes a stage in the pipeline
 
 ## Notification Pipeline

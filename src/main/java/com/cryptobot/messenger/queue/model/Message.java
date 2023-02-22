@@ -1,11 +1,13 @@
 package com.cryptobot.messenger.queue.model;
 
 import com.cryptobot.messenger.kline.models.KlineData;
+import com.cryptobot.messenger.platform.PlatformEnum;
 import org.springframework.stereotype.Component;
 
 
 @Component
-public class QueueEntry {
+public class Message {
+    private PlatformEnum platform;
     private String symbol;
     private String interval;
     private String window;
@@ -14,8 +16,8 @@ public class QueueEntry {
     private String signal;
     private KlineData klineData;
 
-    public QueueEntry() {}
-    public QueueEntry(String symbol, String interval, String window, double threshold, double burst, String signal, KlineData klineData) {
+    public Message() {}
+    public Message(String symbol, String interval, String window, double threshold, double burst, String signal, KlineData klineData) {
         this.symbol = symbol;
         this.interval = interval;
         this.window = window;
@@ -23,6 +25,14 @@ public class QueueEntry {
         this.burst = burst;
         this.signal = signal;
         this.klineData = klineData;
+    }
+
+    public PlatformEnum getPlatform() {
+        return platform;
+    }
+
+    public void setPlatform(PlatformEnum platform) {
+        this.platform = platform;
     }
 
     public String getSignal() {
@@ -83,15 +93,15 @@ public class QueueEntry {
 
     @Override
     public String toString() {
-        return "QueueEntry{" +
-                "symbol='" + symbol + '\'' +
+        return "Message{" +
+                "platform=" + platform +
+                ", symbol='" + symbol + '\'' +
                 ", interval='" + interval + '\'' +
                 ", window='" + window + '\'' +
                 ", threshold=" + threshold +
                 ", burst=" + burst +
                 ", signal='" + signal + '\'' +
+                ", klineData=" + klineData +
                 '}';
     }
-
-
 }

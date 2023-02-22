@@ -1,7 +1,9 @@
 package com.cryptobot.messenger.queue;
 
-import com.cryptobot.messenger.queue.model.QueueEntry;
+import com.cryptobot.messenger.platform.PlatformEnum;
+import com.cryptobot.messenger.queue.model.Message;
 import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
@@ -54,7 +56,12 @@ public class NotificationConsumer {
         // Queue will buffer output to this callback
         DeliverCallback callback = (consumerTag, delivery) -> {
             String message = new String(delivery.getBody(), "UTF-8");
-            QueueEntry entryItem = this.deserialize(message);
+            Map<String, Object> headers = delivery.getProperties().getHeaders();
+
+            Message entryItem = this.deserialize(message);
+
+            // Set Platform based on headers.
+            entryItem.setPlatform(this.getPlatform(headers));
 
             logger.info("Recieved entry item from {}: {}", QUEUE_NAME, entryItem);
         };
@@ -63,7 +70,7 @@ public class NotificationConsumer {
         /**
          * Change basicAck = false later
          */
-        channel.basicConsume(QUEUE_NAME, true, callback, consumerTag -> {});
+        channel.basicConsume(QUEUE_NAME, false, callback, consumerTag -> {});
     }
 
 
@@ -72,16 +79,24 @@ public class NotificationConsumer {
      * @param message
      * @return QueueEntry
      */
-    private QueueEntry deserialize(String message) {
-        QueueEntry entryItem = null;
+    private Message deserialize(String message) {
+        Message entryItem = null;
         try {
-            entryItem = mapper.readValue(message, QueueEntry.class);
+            mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+            entryItem = mapper.readValue(message, Message.class);
         }
         catch (JsonProcessingException e) {
-            logger.error("Error de-serializing QueueEntry object: {}", e.getMessage());
+            logger.error("Error de-serializing Message object: {}", e.getMessage());
         }
         finally {
             return entryItem; 
         }
+    }
+
+
+    private PlatformEnum getPlatform(Map<String, Object> headers) {
+        Object platString = headers.get("platform");
+        System.out.println("Platform: "+ platString);
+        return PlatformEnum.ALL;
     }
 }

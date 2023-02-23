@@ -10,6 +10,8 @@ import com.cryptobot.messenger.webhook.service.WebhookEndpointService;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.mongodb.DuplicateKeyException;
+import com.mongodb.MongoWriteException;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
@@ -56,7 +58,12 @@ public class NotificationConsumer {
      * @throws TimeoutException
      */
     public void consume() throws IOException, TimeoutException {
-//        webhookNotifier.addEndpoint("https://discord.com/api/webhooks/1078108429668860014/kGoFElkjEsbMKTRUZ-KeI6ZNO4uI1uB1F-di5FfmdEtYJDv9lR6vlsb1-z-bHQ-pFIWJ");
+        try {
+            webhookNotifier.addEndpoint("https://discord.com/api/webhooks/1078108429668860014/kGoFElkjEsbMKTRUZ-KeI6ZNO4uI1uB1F-di5FfmdEtYJDv9lR6vlsb1-z-bHQ-pFIWJ");
+        } catch( Exception e) {
+            //ignore
+        }
+
 //        System.out.println("Added endpoint");
         factory.setHost(HOST);
         factory.setPort(PORT);

@@ -52,8 +52,6 @@ public class Pipeline {
         // processes the pipeline's stages one by one
         System.out.println("Stages count: " + this.stages.size());
         for (NotificationStage stage: this.stages) {
-
-            System.out.println("Entered stage: " + stage.getPlatform());
             Message messageBody = this.message;
 
             try {

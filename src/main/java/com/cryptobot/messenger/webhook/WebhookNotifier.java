@@ -6,10 +6,7 @@ import com.cryptobot.messenger.queue.model.Message;
 import com.cryptobot.messenger.webhook.models.WebHookEndpoint;
 import com.cryptobot.messenger.webhook.service.WebhookEndpointService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.MediaType;
-import org.springframework.http.ResponseEntity;
+import org.springframework.http.*;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
@@ -38,6 +35,8 @@ public class WebhookNotifier extends NotificationStage {
     public void sendNotification(Message messageBody) throws Exception {
         // get all webhooks
         List<WebHookEndpoint> allEndpoints = this.webhookEndpointService.getEndpoints();
+        int sCounter = 0;
+        int fCounter = 0;
         for (WebHookEndpoint endpoint : allEndpoints) {
             Thread.sleep(2000);
             HttpHeaders headers = new HttpHeaders();
@@ -69,9 +68,16 @@ public class WebhookNotifier extends NotificationStage {
 
             ResponseEntity<String> response = restTemplate.postForEntity(endpoint.getUrl(), request, String.class);
 
-            System.out.println(response.getStatusCode());
+            if (response.getStatusCode() != HttpStatusCode.valueOf(204)) {
+                System.out.println("Error sending webhook message!: " + messageBody);
+                fCounter += 1;
+            }  else {
+                sCounter += 1;
+            }
 
         }
+
+        System.out.println(fCounter + " out of " + sCounter + " failed");
     }
 
     /**

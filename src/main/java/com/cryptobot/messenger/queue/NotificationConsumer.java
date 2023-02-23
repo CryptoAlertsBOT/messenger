@@ -30,8 +30,11 @@ public class NotificationConsumer {
     private final ObjectMapper mapper;
     private static final Logger logger = LoggerFactory.getLogger(NotificationConsumer.class);
 
-    @Value("${queue.host}")
+    @Value("${spring.rabbitmq.host}")
     private String HOST;
+
+    @Value("${spring.rabbitmq.port}")
+    private int PORT;
     @Value("${queue.name}")
     private String QUEUE_NAME;
 
@@ -56,6 +59,7 @@ public class NotificationConsumer {
 //        webhookNotifier.addEndpoint("https://discord.com/api/webhooks/1078108429668860014/kGoFElkjEsbMKTRUZ-KeI6ZNO4uI1uB1F-di5FfmdEtYJDv9lR6vlsb1-z-bHQ-pFIWJ");
 //        System.out.println("Added endpoint");
         factory.setHost(HOST);
+        factory.setPort(PORT);
         Connection conn = factory.newConnection();
         Channel channel = conn.createChannel();
 

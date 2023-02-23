@@ -4,10 +4,12 @@ import com.cryptobot.messenger.kline.models.KlineData;
 import com.cryptobot.messenger.platform.PlatformEnum;
 import org.springframework.stereotype.Component;
 
+import java.util.List;
+
 
 @Component
 public class Message {
-    private PlatformEnum platform;
+    private List<PlatformEnum> platforms;
     private String symbol;
     private String interval;
     private String window;
@@ -27,12 +29,12 @@ public class Message {
         this.klineData = klineData;
     }
 
-    public PlatformEnum getPlatform() {
-        return platform;
+    public List<PlatformEnum> getPlatforms() {
+        return platforms;
     }
 
-    public void setPlatform(PlatformEnum platform) {
-        this.platform = platform;
+    public void setPlatforms(List<PlatformEnum> platforms) {
+        this.platforms = platforms;
     }
 
     public String getSignal() {
@@ -94,7 +96,7 @@ public class Message {
     @Override
     public String toString() {
         return "Message{" +
-                "platform=" + platform +
+                "platform=" + platforms +
                 ", symbol='" + symbol + '\'' +
                 ", interval='" + interval + '\'' +
                 ", window='" + window + '\'' +

@@ -1,7 +1,12 @@
 package com.cryptobot.messenger.queue;
 
+import com.cryptobot.messenger.pipeline.Pipeline;
+import com.cryptobot.messenger.pipeline.stage.NotificationStage;
 import com.cryptobot.messenger.platform.PlatformEnum;
 import com.cryptobot.messenger.queue.model.Message;
+import com.cryptobot.messenger.webhook.WebhookNotifier;
+import com.cryptobot.messenger.webhook.models.WebHookEndpoint;
+import com.cryptobot.messenger.webhook.service.WebhookEndpointService;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -16,8 +21,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 import java.util.concurrent.TimeoutException;
 
 @Component
@@ -31,11 +35,16 @@ public class NotificationConsumer {
     @Value("${queue.name}")
     private String QUEUE_NAME;
 
+    private Pipeline notificationPipeline;
+    private WebhookNotifier webhookNotifier;
+
+
     @Autowired
-    public NotificationConsumer(ConnectionFactory factory, ObjectMapper mapper) {
+    public NotificationConsumer(ConnectionFactory factory, ObjectMapper mapper, Pipeline pipeline, WebhookNotifier webhookNotifier) {
         this.factory = factory;
         this.mapper = mapper;
-
+        this.notificationPipeline = pipeline;
+        this.webhookNotifier = webhookNotifier;
     }
 
     /**
@@ -44,6 +53,8 @@ public class NotificationConsumer {
      * @throws TimeoutException
      */
     public void consume() throws IOException, TimeoutException {
+//        webhookNotifier.addEndpoint("https://discord.com/api/webhooks/1078108429668860014/kGoFElkjEsbMKTRUZ-KeI6ZNO4uI1uB1F-di5FfmdEtYJDv9lR6vlsb1-z-bHQ-pFIWJ");
+//        System.out.println("Added endpoint");
         factory.setHost(HOST);
         Connection conn = factory.newConnection();
         Channel channel = conn.createChannel();
@@ -56,21 +67,30 @@ public class NotificationConsumer {
         // Queue will buffer output to this callback
         DeliverCallback callback = (consumerTag, delivery) -> {
             String message = new String(delivery.getBody(), "UTF-8");
-            Map<String, Object> headers = delivery.getProperties().getHeaders();
 
-            Message entryItem = this.deserialize(message);
+            Message msg = this.deserialize(message);
+            List<String> platforms = (ArrayList<String>) delivery.getProperties().getHeaders().get("platforms");
+
+
+            List<String> fake = new ArrayList<>();
+            fake.add("webhook");
 
             // Set Platform based on headers.
-            entryItem.setPlatform(this.getPlatform(headers));
+            msg.setPlatforms(this.getMessagePlatforms(fake));
 
-            logger.info("Recieved entry item from {}: {}", QUEUE_NAME, entryItem);
+            // Set the stages in pipeline
+            notificationPipeline.init(msg);
+            notificationPipeline.process();
+
+
+            logger.info("Recieved entry item from {}: {}", QUEUE_NAME, msg);
         };
 
         // consume queue
         /**
          * Change basicAck = false later
          */
-        channel.basicConsume(QUEUE_NAME, false, callback, consumerTag -> {});
+        channel.basicConsume(QUEUE_NAME, true, callback, consumerTag -> {});
     }
 
 
@@ -94,9 +114,30 @@ public class NotificationConsumer {
     }
 
 
-    private PlatformEnum getPlatform(Map<String, Object> headers) {
-        Object platString = headers.get("platform");
-        System.out.println("Platform: "+ platString);
-        return PlatformEnum.ALL;
+    private List<PlatformEnum> getMessagePlatforms(List<String> platforms) {
+        List<PlatformEnum> platformEnums = new ArrayList<>();
+
+        // do some processing on the headers -> get the platform
+        for (String platform: platforms ) {
+            switch (platform) {
+                case "all":
+                    platformEnums.add(PlatformEnum.ALL);
+                    break;
+                case "twitter":
+                    platformEnums.add((PlatformEnum.TWITTER));
+                    break;
+                case "discord":
+                    platformEnums.add(PlatformEnum.DISCORD);
+                    break;
+                case "telegram":
+                    platformEnums.add(PlatformEnum.TELEGRAM);
+                    break;
+                case "webhook":
+                    platformEnums.add(PlatformEnum.WEBHOOK);
+                    break;
+            }
+        }
+
+        return platformEnums;
     }
 }

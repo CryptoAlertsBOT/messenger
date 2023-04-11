@@ -40,6 +40,7 @@ public class NotificationConsumer {
     @Value("${queue.name}")
     private String QUEUE_NAME;
 
+
     private Pipeline notificationPipeline;
     private WebhookNotifier webhookNotifier;
 
@@ -59,14 +60,15 @@ public class NotificationConsumer {
      */
     public void consume() throws IOException, TimeoutException {
         try {
-            webhookNotifier.addEndpoint("https://discord.com/api/webhooks/1078108429668860014/kGoFElkjEsbMKTRUZ-KeI6ZNO4uI1uB1F-di5FfmdEtYJDv9lR6vlsb1-z-bHQ-pFIWJ");
+            // webhookNotifier.addEndpoint("https://discord.com/api/webhooks/1078108429668860014/kGoFElkjEsbMKTRUZ-KeI6ZNO4uI1uB1F-di5FfmdEtYJDv9lR6vlsb1-z-bHQ-pFIWJ");
+            webhookNotifier.addEndpoint("https://discord.com/api/webhooks/1095465401103695872/mUEWg2KDJ0Ur-j2unmZZymKP42g6h40JVf-lqTJheya-3T-JAohdNN2E2A97nazICxIJ");
         } catch( Exception e) {
             //ignore
         }
 
 //        System.out.println("Added endpoint");
         factory.setHost(HOST);
-        factory.setPort(PORT);
+        factory.setPort(Integer.valueOf(PORT));
         Connection conn = factory.newConnection();
         Channel channel = conn.createChannel();
 

@@ -1,0 +1,103 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: messenger
+spec:
+  type: NodePort
+  selector:
+    name: messenger
+  ports:
+    - protocol: TCP
+      port: 8080
+      targetPort: 8081
+      nodePort: 30001
+
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: messenger
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      name: messenger
+  template:
+    metadata:
+      labels:
+        name: messenger
+    spec:
+      containers:
+        - name: messenger
+          image: kautilyak/messenger:1.0
+          env:
+            - name: MONGO_HOST
+              value: mongo-messenger
+            - name: MONGO_PORT
+              value: "27017"
+            - name: MONGO_DATABASE
+              value: "endpoint_db"
+            - name: SPRING_RABBITMQ_HOST
+              value: rabbitmq
+            - name: SPRING_RABBITMQ_PORT
+              value: "5672"
+            - name: SPRING_RABBITMQ_USERNAME
+              value: "guest"
+            - name: SPRING_RABBITMQ_PASSWORD
+              value: "guest"
+            - name: ENV
+              value: "development"
+          ports:
+            - containerPort: 8081
+      restartPolicy: Always
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: mongo-messenger
+spec:
+  selector:
+    app: mongo-messenger
+  ports:
+    - protocol: TCP
+      port: 27017
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: mongo-messenger
+spec:
+  serviceName: mongo-messenger
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mongo-messenger
+  template:
+    metadata:
+      labels:
+        app: mongo-messenger
+    spec:
+      containers:
+        - name: mongo
+          image: mongo:latest
+          ports:
+            - containerPort: 27017
+          volumeMounts:
+            - name: mongo-messenger-data
+              mountPath: /data/db
+      volumes:
+        - name: mongo-messenger-data
+          persistentVolumeClaim:
+            claimName: mongo-pvc-messenger
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: mongo-pvc-messenger
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 1Gi

@@ -5,6 +5,7 @@ import com.cryptobot.messenger.platform.PlatformEnum;
 import com.cryptobot.messenger.queue.model.Message;
 import com.cryptobot.messenger.webhook.WebhookNotifier;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
@@ -18,6 +19,9 @@ public class Pipeline {
     private Message message;
 
     private WebhookNotifier webhookNotifier;
+
+    @Value("${ENVIRONMENT}")
+    private String env;
 
     public Pipeline() {}
     @Autowired
@@ -55,7 +59,11 @@ public class Pipeline {
             Message messageBody = this.message;
 
             try {
-                stage.sendNotification(messageBody);
+                if (env != "development") {
+                    stage.sendNotification(messageBody);
+                } else {
+                    System.out.println("processed queue item");
+                }
             } catch (Exception e) {
                 throw new RuntimeException(e);
             }

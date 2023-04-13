@@ -85,11 +85,11 @@ public class NotificationConsumer {
             List<String> platforms = (ArrayList<String>) delivery.getProperties().getHeaders().get("platforms");
 
 
-            List<String> fake = new ArrayList<>();
-            fake.add("webhook");
+            List<String> platformStrings = new ArrayList<>();
+            platformStrings.add("webhook");
 
             // Set Platform based on headers.
-            msg.setPlatforms(this.getMessagePlatforms(fake));
+            msg.setPlatforms(this.getMessagePlatforms(platformStrings));
 
             // Set the stages in pipeline
             notificationPipeline.init(msg);

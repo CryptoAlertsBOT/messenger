@@ -20,3 +20,9 @@ A Notification system that acts as a standalone service for CryptoBOT
 - Ability to add an Endpoint to push
   - Store a collection of `Endpoint`s in MongoDB
   - For each endpoint -> Push out `Message`
+
+
+## Todo:
+
+1. Implement an interface to connect and manipulate the TELEGRAM, DISCORD, TWITTER Platform.
+2. Platform Enums can be found in the enums/PlatformEnum.java

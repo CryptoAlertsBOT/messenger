@@ -26,3 +26,4 @@ A Notification system that acts as a standalone service for CryptoBOT
 
 1. Implement an interface to connect and manipulate the TELEGRAM, DISCORD, TWITTER Platform.
 2. Platform Enums can be found in the enums/PlatformEnum.java
+3. Build the APIs similar to the webhook package in this repository.

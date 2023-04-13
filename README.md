@@ -10,7 +10,6 @@ A Notification system that acts as a standalone service for CryptoBOT
 - Consists of multiple `NotificationStage`s
 - Every `Message`must be passed through a pipeline with different `NotificationStage`s
 - Each `NotificationStage` is responsible for delivering to its own Platform.
-- Each stage has an `Endpoint` to talk to.
 - Once the pipeline is complete -> `basicAck()` the RabbitMQ to delete the message from Queue. ( What if only one fails? Send to DLQ for single platform tags )
 
 

@@ -1,0 +1,14 @@
+export const SUBSCRIBED: string = "Channel subscribed for alerts.";
+export const ALREADY_SUBSCRIBED: string = "Channel already subscribed for alerts.";
+export const REMOVED_SUB: string = "Unsubscribed this channel from alerts. If you wish to remove all channels use the `all` parameter.";
+export const DELETED_SERVER: string = "Unsubscribed this server from alerts. To turn them back on send `!start`";
+export const OWNER_ONLY: string = "Only the server owner can control this command.";
+export const NOT_VALID_SYMBOL_DISCORD: string = ">>> __Please enter a valid symbol__\n_Example_: **BTCUSDT** or **LINKBTC**.\nOnly supports BTC or USDT base.";
+export const HELP_HEADER: string = "Available Commands";
+export const UNKNOWN_ERROR: string = "`Something went wrong! Please try again later.`";
+export const NOT_SUBSCRIBED: string = "> Server not subscribed yet.";
+export const COULDNT_UPDATE_DB: string = "```Couldn't update!\nThis could've been a Database Error\nPlease try again in a while.```";
+export const NO_SYMBOL_SUBS: string = "> No market pair subscriptions yet for this channel.";
+export const REMOVE_ALERT_INVALID_ALERT_SYNTAX: string = ">>> __Please provide a valid alert syntax__\n**First Param:** `MARKET PAIR / SYMBOL`\n**Second Param:** `Alert Price`\n**Example:** `/removealert BTCUSDT 50000`";
+export const SET_ALERT_INVALID_ALERT_SYNTAX: string = ">>> __Please provide a valid alert syntax__\n**First Param:** `MARKET PAIR / SYMBOL`\n**Second Param:** `Alert Price`\n**Example:** `/setalert BTCUSDT 50000`";
+export const NO_ACTIVE_ALERTS: string = ">>> No active alerts set for you.";

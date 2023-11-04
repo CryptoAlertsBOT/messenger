@@ -1,0 +1,2800 @@
+-----------------------------------------------
+Error - Thu Jul 01 2021 21:11:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 01 2021 21:12:09 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+
+============
+Fri Jul 02 2021 21:21:51 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: MongoNetworkError: connection 4 to 34.93.1.12:27017 closed
+================
+-----------------------------------------------
+Error - Fri Jul 02 2021 23:04:36 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Jul 02 2021 23:04:40 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was kicked from the supergroup chat
+-----------------------------------------------
+
+
+============
+Fri Jul 02 2021 23:06:38 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Fri Jul 02 2021 23:06:43 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was kicked from the supergroup chat
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Jul 02 2021 23:07:41 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was kicked from the supergroup chat
+-----------------------------------------------
+
+
+============
+Fri Jul 02 2021 23:09:37 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Fri Jul 02 2021 23:11:37 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Fri Jul 02 2021 23:11:41 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was kicked from the supergroup chat
+-----------------------------------------------
+
+
+============
+Tue Jul 13 2021 12:59:26 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: symbol.endsWith is not a function
+================
+
+============
+Tue Jul 13 2021 13:03:29 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: symbol.endsWith is not a function
+================
+
+============
+Tue Jul 13 2021 13:07:07 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: symbol.endsWith is not a function
+================
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: group chat was upgraded to a supergroup chat
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was kicked from the group chat
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:58 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:13:59 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: have no rights to send a message
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:00 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:02 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:02 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:03 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Tue Jul 13 2021 13:14:03 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Tue Jul 13 2021 13:14:35 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot convert undefined or null to object
+================
+
+============
+Thu Jul 15 2021 07:56:51 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot convert undefined or null to object
+================
+
+============
+Thu Jul 15 2021 07:56:51 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot convert undefined or null to object
+================
+
+============
+Thu Jul 15 2021 07:56:51 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+================
+
+============
+Thu Jul 15 2021 07:56:52 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+================
+
+============
+Thu Jul 15 2021 07:56:52 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+================
+-----------------------------------------------
+Error - Thu Jul 15 2021 07:58:55 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 07:59:54 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:09:57 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:11:53 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:13:54 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:13:54 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:13:54 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:19:56 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:21:55 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:30:55 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:30:55 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:30:55 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:32:55 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:32:55 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:32:55 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Thu Jul 15 2021 08:33:54 GMT+0530 (India Standard Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:33:55 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:35:55 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:36:55 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Jul 15 2021 08:36:55 GMT+0530 (India Standard Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+
+============
+Thu Apr 14 2022 15:21:52 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Thu Apr 14 2022 15:25:48 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:26:01 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:26:01 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:26:01 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:26:01 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:26:01 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:27:56 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:27:56 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:29:54 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:29:54 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Thu Apr 14 2022 15:32:52 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Thu Apr 14 2022 15:32:52 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:33:02 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:33:02 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:33:02 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:33:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:33:47 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:34:46 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:36:52 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:36:52 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Thu Apr 14 2022 15:37:50 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:37:59 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:37:59 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:37:59 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:37:59 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:38:00 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 15:44:46 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Thu Apr 14 2022 16:02:23 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Thu Apr 14 2022 16:02:37 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Thu Apr 14 2022 16:03:18 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Thu Apr 14 2022 16:03:30 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: group chat was upgraded to a supergroup chat
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 16:03:31 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 16:03:31 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 16:03:31 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 16:03:31 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 16:03:31 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 16:03:31 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 16:03:31 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 16:03:31 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 16:03:31 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Thu Apr 14 2022 16:03:31 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Sat Apr 30 2022 22:17:42 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:18:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:18:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:18:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:18:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Sat Apr 30 2022 22:19:40 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Sat Apr 30 2022 22:19:40 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Sat Apr 30 2022 22:19:42 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:02 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: group chat was upgraded to a supergroup chat
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:02 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:02 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:04 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:04 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:04 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:04 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:20:04 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Sat Apr 30 2022 22:20:41 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Sat Apr 30 2022 22:20:45 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:03 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:04 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:04 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:04 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:07 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:21:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Sat Apr 30 2022 22:21:43 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Sat Apr 30 2022 22:21:43 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Sat Apr 30 2022 22:21:46 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: group chat was upgraded to a supergroup chat
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:05 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Sat Apr 30 2022 22:22:45 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:22:52 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:23:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:23:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:23:08 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Sat Apr 30 2022 22:24:46 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Sat Apr 30 2022 22:24:47 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:24:52 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:25:09 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:25:52 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:30:52 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:32:52 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:38:53 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Sat Apr 30 2022 22:40:48 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:41:00 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:41:00 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:41:00 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:42:00 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:42:00 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:42:00 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Sat Apr 30 2022 22:46:46 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:47:11 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:47:11 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:47:11 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Sat Apr 30 2022 22:47:42 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:48:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:48:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:48:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:48:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:48:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:48:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:48:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:48:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:48:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:48:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:48:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Sat Apr 30 2022 22:48:06 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+
+============
+Fri Nov 03 2023 21:51:29 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot convert undefined or null to object
+================
+
+============
+Fri Nov 03 2023 21:52:27 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot convert undefined or null to object
+================
+
+============
+Fri Nov 03 2023 21:53:20 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot convert undefined or null to object
+================
+
+============
+Fri Nov 03 2023 22:48:39 GMT-0400 (Eastern Daylight Time)Error: listen EADDRINUSE: address already in use :::3001
+ORIGIN: uncaughtException
+================
+
+============
+Fri Nov 03 2023 22:49:55 GMT-0400 (Eastern Daylight Time)Error: listen EADDRINUSE: address already in use :::3001
+ORIGIN: uncaughtException
+================
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:02:27 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TWITTER] (catch block)
+Reason: 
+-----------------------------------------------
+
+
+============
+Fri Nov 03 2023 23:02:28 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:03:32 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TWITTER] (catch block)
+Reason: 
+-----------------------------------------------
+
+
+============
+Fri Nov 03 2023 23:03:33 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:06:26 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TWITTER] (catch block)
+Reason: 
+-----------------------------------------------
+
+
+============
+Fri Nov 03 2023 23:06:32 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:07:44 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TWITTER] (catch block)
+Reason: 
+-----------------------------------------------
+
+
+============
+Fri Nov 03 2023 23:07:45 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:07:59 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TWITTER] (catch block)
+Reason: 
+-----------------------------------------------
+
+
+============
+Fri Nov 03 2023 23:08:03 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:11:42 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TWITTER] (catch block)
+Reason: 
+-----------------------------------------------
+
+
+============
+Fri Nov 03 2023 23:11:44 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:16:07 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TWITTER] (catch block)
+Reason: 
+-----------------------------------------------
+
+
+============
+Fri Nov 03 2023 23:16:07 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:19:58 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TWITTER] (catch block)
+Reason: 
+-----------------------------------------------
+
+
+============
+Fri Nov 03 2023 23:20:00 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 400 Bad Request: chat not found
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: user is deactivated
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+-----------------------------------------------
+Error - Fri Nov 03 2023 23:20:41 GMT-0400 (Eastern Daylight Time)
+In file Notification/handler.ts [SEND_NOTIF_TELEGRAM] (catch block 1)
+Reason: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+-----------------------------------------------
+
+
+============
+Fri Nov 03 2023 23:28:46 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Fri Nov 03 2023 23:33:29 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Fri Nov 03 2023 23:33:31 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Fri Nov 03 2023 23:39:18 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Fri Nov 03 2023 23:39:26 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Fri Nov 03 2023 23:43:45 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================
+
+============
+Fri Nov 03 2023 23:44:27 GMT-0400 (Eastern Daylight Time)
+Unhandled Rejection at: [object Promise].
+Reason: TypeError: Cannot read property 'send' of undefined
+================

@@ -1,8 +1,15 @@
-FROM openjdk:17.0.1-jdk-slim
+FROM node:alpine3.14
 
-WORKDIR /messenger
-COPY target/messenger-0.0.1-SNAPSHOT.jar /messenger.jar
-EXPOSE 8081
+RUN mkdir /home/cryptobot
+WORKDIR /home/cryptobot
+COPY . .
 
-CMD ["java", "-jar", "/messenger.jar"]
+RUN apk upgrade && \
+    apk update && \
+    apk add npm
 
+RUN npm install typescript@4.3.4 -g
+
+RUN npm run build
+
+CMD ["npm", "run", "start"]

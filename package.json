@@ -1,0 +1,42 @@
+{
+  "name": "cb-service-layer",
+  "version": "1.0.0",
+  "description": "CryptoBOT's Service Layer",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm install && tsc",
+    "service": "node dist/index.js",
+    "service-dev": "cross-env NODE_ENV=development nodemon dist/index.js",
+    "start": "npm run build && npm run service",
+    "start-dev": "npm run build && npm run service-dev"
+  },
+  "keywords": [
+    "cryptobot"
+  ],
+  "author": "Kautilya Kondragunta",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "minimist": "^1.2.5",
+    "mongoose": "^5.13.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "os": "^0.1.1",
+    "process": "^0.11.10",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.12",
+    "@types/minimist": "^1.2.1",
+    "@types/node": "^15.12.5",
+    "@types/node-telegram-bot-api": "^0.51.1",
+    "@types/twitter": "^1.7.0",
+    "colors": "^1.4.0",
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.9"
+  }
+}

@@ -36,7 +36,7 @@
         </encoder>
     </appender>
 
-    <logger name="com.cryptobot.messenger.queue.NotificationConsumer" level="INFO" additivity="false">
+    <logger name="com.cryptobot.messenger.mq.NotificationConsumer" level="INFO" additivity="false">
         <appender-ref ref="CONSUMER_FILE" />
         <appender-ref ref="CONSOLE" />
     </logger>

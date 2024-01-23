@@ -1,6 +1,6 @@
 package com.cryptobot.messenger;
 
-import com.cryptobot.messenger.queue.NotificationConsumer;
+import com.cryptobot.messenger.mq.NotificationConsumer;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

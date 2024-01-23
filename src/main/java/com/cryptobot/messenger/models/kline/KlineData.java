@@ -1,4 +1,4 @@
-package com.cryptobot.messenger.kline.models;
+package com.cryptobot.messenger.models.kline;
 
 import java.util.Date;
 
